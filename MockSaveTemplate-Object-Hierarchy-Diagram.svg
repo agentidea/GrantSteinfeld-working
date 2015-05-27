@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="841mm"
+   height="594mm"
+   viewBox="0 0 2979.9212 2104.7244"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="MockSaveTemplate-Object-Hierarchy-Diagram.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1331.1776"
+     inkscape:cy="957.2216"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1436"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4355" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,1052.3622)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.81124306;stroke-opacity:1"
+       id="rect4242"
+       width="439.53836"
+       height="117.28739"
+       x="2067.3022"
+       y="-591.12079" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2150.895"
+       y="-518.5083"
+       id="text4244"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4246"
+         x="2150.895"
+         y="-518.5083">SaveTemplate</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.44254827;stroke-opacity:1"
+       id="rect4256"
+       width="438.3103"
+       height="118.59445"
+       x="2068.2417"
+       y="-391.47476" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2094.8762"
+       y="-320.9433"
+       id="text4258"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4260"
+         x="2094.8762"
+         y="-320.9433">MockSaveTemplate</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.36103725;stroke-opacity:1"
+       id="rect4267"
+       width="440.94437"
+       height="119.96096"
+       x="1087.3973"
+       y="-391.94479" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1149.8883"
+       y="-319.45383"
+       id="text4269"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4271"
+         x="1149.8883"
+         y="-319.45383">RiggedDataPool</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.33873665;stroke-opacity:1"
+       id="rect4278"
+       width="422.25168"
+       height="117.71784"
+       x="1585.3617"
+       y="-391.09589" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1659.1067"
+       y="-318.87952"
+       id="text4280"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4282"
+         x="1659.1067"
+         y="-318.87952">MockTemplate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.11165619px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2232.4382"
+       y="-632.84863"
+       id="text4294"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98489448,1.0153372)"><tspan
+         sodipodi:role="line"
+         id="tspan4296"
+         x="2232.4382"
+         y="-632.84863">Command</tspan></text>
+    <g
+       id="g4344"
+       transform="translate(2592.612,57.335712)">
+      <rect
+         y="-190.43799"
+         x="-1493.3672"
+         height="96.352585"
+         width="855.9873"
+         id="rect4338"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.62206316;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4340"
+         y="-136.20078"
+         x="-1473.4752"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-136.20078"
+           x="-1473.4752"
+           id="tspan4342"
+           sodipodi:role="line">saveTemplate_UnitTests_ThroughBrowser</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="159.99997"
+       y="-544.7807"
+       id="text4349"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4351"
+         x="159.99997"
+         y="-544.7807">ROOT</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="-494.78067"
+         id="tspan4444">    |-----A</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="-444.78067"
+         id="tspan4446">    |     |</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="-394.78067"
+         id="tspan4448">    |     |---- A1</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="-344.78067"
+         id="tspan4450">    |     |</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="-294.78067"
+         id="tspan4452">    |     |---- A2</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="-244.78069"
+         id="tspan4454">    |</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="-194.78069"
+         id="tspan4456">    |-----B</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="-144.78069"
+         id="tspan4458">    |     |</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="-94.780685"
+         id="tspan4460">    |     |---- B1</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="-44.780682"
+         id="tspan4462">    |     |</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="5.219317"
+         id="tspan4464">    |     |---- B2</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="55.219318"
+         id="tspan4466">    |     |</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="105.21931"
+         id="tspan4468">    |     |---- B3</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="155.21931"
+         id="tspan4470">    |</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="205.21931"
+         id="tspan4472">    |-----C</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="255.21931"
+         id="tspan4474">    |     |</tspan><tspan
+         sodipodi:role="line"
+         x="159.99997"
+         y="305.21933"
+         id="tspan4476">    |     |---- C1</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.09345865;stroke-opacity:1"
+       id="rect4353"
+       width="419.90652"
+       height="121.33511"
+       x="1587.1896"
+       y="-590.44824" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99838388;stroke-opacity:1"
+       id="rect4357"
+       width="438.57303"
+       height="120.00161"
+       x="1088.5707"
+       y="-590.49579" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1168.5714"
+       y="-516.20923"
+       id="text4359"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4361"
+         x="1168.5714"
+         y="-516.20923">MockDataPool</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1645.7144"
+       y="-520.495"
+       id="text4369"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4371"
+         x="1645.7144"
+         y="-520.495">TemplateReport</tspan></text>
+    <g
+       id="g4388"
+       transform="translate(1056.7962,-774.87535)">
+      <rect
+         y="792.46368"
+         x="42.020306"
+         height="110"
+         width="990"
+         id="rect4382"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4384"
+         y="862.36218"
+         x="80"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="862.36218"
+           x="80"
+           id="tspan4386"
+           sodipodi:role="line">saveTemplate_UnitTests_NotThroughBrowser</tspan></text>
+    </g>
+    <g
+       id="g4399"
+       transform="translate(1057.1428,-537.14286)">
+      <rect
+         y="722.36218"
+         x="40"
+         height="130"
+         width="980"
+         id="rect4393"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4395"
+         y="797.1084"
+         x="79.192902"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="797.1084"
+           x="79.192902"
+           id="tspan4397"
+           sodipodi:role="line">saveTemplate_UnitTests_AsMethodsOnObject</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1151.4286"
+       y="192.3622"
+       id="text4404"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-1151.4286"
+         y="192.3622"
+         id="tspan4412" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="802.85712"
+       y="792.36218"
+       id="text4478"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4480"
+         x="802.85712"
+         y="792.36218"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Explaination of Mock test framework as applied to SaveTemplate Command</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="217.14285"
+       y="-641.92352"
+       id="text4482"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4484"
+         x="217.14285"
+         y="-641.92352"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">Tree</tspan></text>
+  </g>
+</svg>
